@@ -1,0 +1,12 @@
+PyQt5>=5.15
+matplotlib
+seaborn
+pandas
+numpy
+opencv-python
+tqdm
+scipy
+torch>=1.10
+ultralytics
+reportlab
+Pillow
