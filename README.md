@@ -1,5 +1,5 @@
 
-# 🎯 FlocAnalyzer - 絮团检测与分析系统
+<h1 align="center">🎯 FlocAnalyzer - 絮团检测与分析系统</h1>
 
 <p align="center">
   <img src="assets/logo.png" width="120" />
