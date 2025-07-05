@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ### 2. 下载 YOLOv8 分割模型
 
-请从 ultralytics 官网或训练得到的模型权重中获取 `.pt` 文件，并放入模型路径。
+请从我们的代码库中获取模型权重 `.pt` 文件，并放入模型路径。
 
 ### 3. 运行主程序
 
@@ -96,7 +96,7 @@ floc-analysis-system/
 ├── .gitignore             # Git 忽略规则
 ├── teaching.html          # 可视化内嵌帮助页面
 ├── assets/                # 存放模型、截图、图示等
-│   └── demo.gif
+│   └── demo.png
 ```
 
 ---
