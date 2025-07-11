@@ -179,6 +179,20 @@ A: 当前主要支持 Windows，未来计划完善跨平台支持。
 
 -----
 
+## 📄 相关论文
+
+本絮团分析系统作为相关方法的研究成果（室内试验部分）发表于国际权威期刊 *Water Research*：
+
+--**Ya Wu**, Leiping Ye, Jie Ren, Jiaxue Wu,  
+--*Predicting suspended floc size in estuarine waters using self-adaptive parameterized physics-informed neural networks*,  
+--**Water Research**, Volume 285, 2025, 124094,  
+--[https://doi.org/10.1016/j.watres.2025.124094](https://doi.org/10.1016/j.watres.2025.124094)  
+--[[ScienceDirect 文章链接]](https://www.sciencedirect.com/science/article/pii/S0043135425010024)
+
+### 摘要：
+本研究提出了一种自适应参数化物理信息神经网络（SAP-PINNs）模型，动态优化絮团动力学方程中的聚并、破碎和侵蚀参数，提升了絮团粒径预测的精度和物理一致性。实验和现场验证结果表明，该模型在不同水动力条件下均表现出良好的预测能力，相较传统模型精度提升达 **88.31%**。此外，基于 SHAP 分析揭示了**剪切力和盐度**为主要影响因子。该方法为**河口与近海水体的泥沙输移与水质管理**提供了新工具。
+
+
 ## ❤️ 致谢
 
 感谢以下项目提供基础支持：
