@@ -181,7 +181,7 @@ A: 当前主要支持 Windows，未来计划完善跨平台支持。
 
 ## 📄 相关论文
 
-本絮团分析系统作为相关方法的研究成果（室内试验部分）发表于国际权威期刊 *Water Research*：
+应用我们相关方法的研究成果已经发表于国际权威期刊 *Water Research*：
 
 --**Ya Wu**, Leiping Ye, Jie Ren, Jiaxue Wu,  
 --*Predicting suspended floc size in estuarine waters using self-adaptive parameterized physics-informed neural networks*,  
